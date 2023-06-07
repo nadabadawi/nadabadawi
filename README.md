@@ -51,10 +51,10 @@ I am a Senior Computer Engineering Student at The American University in Cairo.
 <br>
 <h4 align="center"> Reach me at any time: </h4>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nada-badawi-1364nb/" target="_blank">
+  <a href="https://www.linkedin.com/in/nada-badawi-1364nb/" target="_blank" rel="noopener noreferrer">
   <img src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" alt="LinkedIn Badge" width="30"/>
     </a>
-  <a href="mailto:nadabadawi03@gmail.com" target="_blank">
+  <a href="mailto:nadabadawi03@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png?w=740&t=st=1686091816~exp=1686092416~hmac=febe729e677092ff3b085da48ffa33dbd243a61e19ac67cbd96923f162f701f1" alt="Gmail Badge" width="30"/>
   </a>
 </div>
