@@ -36,22 +36,20 @@ I am a Senior Computer Engineering Student at The American University in Cairo.
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="40" height="40"/>
 </div>
 
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nadabadawi)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadabadawi)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nadabadawi&theme=ocean-gradient)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadabadawi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-<div align="center"> Reach me at any time: </div>
+<h4 align="center"> Reach me at any time: </h4>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nada-badawi-1364nb/">
   <img src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" alt="LinkedIn Badge" width="30"/>
@@ -61,17 +59,7 @@ I am a Senior Computer Engineering Student at The American University in Cairo.
   </a>
 </div>
 
-
 <!--
-
-**nadabadawi/nadabadawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-"https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-
-<br>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="150"/>
-</div>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
