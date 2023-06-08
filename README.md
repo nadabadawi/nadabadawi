@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me :
 I am a Senior Computer Engineering Student at The American University in Cairo.
-- 🔭 Currently working on AI TinyML Model Optimizations, Efficient Model Deployment, and Caravel Chip Design
+- 🔭 Currently working on AI Model Optimizations, Efficient Model Deployment, and Caravel Chip Design
 - 🌱 Currently learning and exploring Embedded Deep Learning and Cryptography.
 
 ---
